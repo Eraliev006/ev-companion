@@ -1,0 +1,36 @@
+# AI
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+.claude/
+.cursor/
+.cursorrules
+.windsurfrules
+.github/copilot-instructions.md
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Build
+build/
+bin/
+dist/
+*.bin
+*.elf
+
+# Go
+*.test
+*.out
+coverage.*
+
+# Xcode
+DerivedData/
+xcuserdata/
+*.xcuserstate
